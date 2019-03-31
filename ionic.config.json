@@ -1,0 +1,7 @@
+{
+  "name": "ehvcontacts",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
